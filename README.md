@@ -15,3 +15,4 @@ npm run build
 https://www.laravelia.com/post/laravel-10-jwt-complete-api-authentication-tutorial
 php artisan migrate --path=/database/migrations/2014_10_12_000000_create_users_table.php
 https://dev.to/meherulsust/how-to-build-a-jwt-authenticated-api-with-lumen-831-171o
+https://jwt-auth.readthedocs.io/en/docs/quick-start/
