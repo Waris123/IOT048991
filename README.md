@@ -10,3 +10,6 @@ php artisan ui bootstrap
 npm install
 npm run dev
 npm run build
+
+
+https://www.laravelia.com/post/laravel-10-jwt-complete-api-authentication-tutorial
